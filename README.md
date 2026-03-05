@@ -1,6 +1,8 @@
-# XAMPP
+# MyAdmin
 
-Linux + Apache + MySQL
+Like a XAMPP
+
+Linux + Apache + MySQL + PHPMYADMIN
 
 ## license
 
