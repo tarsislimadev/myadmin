@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log('MyAdmin')
+const pack = require('./package.json')
+
+console.log(`MyAdmin v${pack.version}`)
