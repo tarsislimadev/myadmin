@@ -1,0 +1,17 @@
+{
+  "name": "@tarsislimadev/myadmin",
+  "version": "0.1.0",
+  "description": "Manage MySQL and MariaDB databases easily",
+  "main": "index.js",
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarsislimadev/myadmin.git"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tarsislimadev/myadmin/issues"
+  },
+  "homepage": "https://github.com/tarsislimadev/myadmin#readme"
+}
